@@ -17,7 +17,7 @@
     ],
     "require": {
         "composer/installers": "*",
-        "james-and-james-fulfilment/sentry": "^1.9"
+        "james-and-james-fulfilment/sentry": "1.9.0"
     },
     "support": {
         "issues": "https://github.com/JamesAndJamesFulfilment/symfony-amg-sentry-plugin/issues",
