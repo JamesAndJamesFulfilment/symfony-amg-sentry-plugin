@@ -17,7 +17,7 @@
     ],
     "require": {
         "composer/installers": "*",
-        "james-and-james-fulfilment/sentry": "dev-master"
+        "james-and-james-fulfilment/sentry": "dev-php7"
     },
     "support": {
         "issues": "https://github.com/JamesAndJamesFulfilment/symfony-amg-sentry-plugin/issues",
